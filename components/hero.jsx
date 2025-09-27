@@ -61,11 +61,9 @@ export function Hero() {
 
         <div className="relative">
           <div className="aspect-square bg-gradient-to-br from-accent/20 to-accent/5 rounded-2xl flex items-center justify-center border border-border">
-            // <div className="text-6xl">👨‍💻</div>
             <img
               src="/Pasfoto_Louis.jpg"
               alt="Profile Picture"
-              className="h-16 w-16 object-contain"
             />
           </div>
         </div>
