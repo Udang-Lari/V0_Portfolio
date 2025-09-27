@@ -64,7 +64,7 @@ export function Hero() {
             <img
               src="/Pasfoto_Louis.jpg"
               alt="Profile Picture"
-              className="h-full w-full"
+              className="h-full w-full object-contain"
             />
           </div>
         </div>
