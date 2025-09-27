@@ -51,7 +51,7 @@ export function Contact() {
     {
       icon: <MapPin className="h-5 w-5" />,
       label: "Location",
-      value: "Kota Tangerang, Banten, Indonesia",
+      value: "Pluit, DKI Jakarta, Indonesia",
       href: "#",
     },
   ]
